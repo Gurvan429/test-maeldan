@@ -1,11 +1,14 @@
 <template>
-  <h1>Test</h1>
+  <test></test>
 </template>
 
 <script>
+import Test from "@/components/test.vue";
+
 export default {
   name: 'App',
   components: {
+    Test
   }
 }
 </script>
