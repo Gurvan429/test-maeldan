@@ -1,16 +1,12 @@
 <template>
-    <h1>My App</h1>
-    <router-link to="/test-component">Go to Test</router-link>
-    <router-view></router-view>
-</template>
+  <div id="app">
+    <h1>TEST DE FOU</h1>
+
+  </div></template>
 
 <script>
 
-export default {
-  name: 'App',
-  components: {
-  }
-}
+
 </script>
 
 <style>
